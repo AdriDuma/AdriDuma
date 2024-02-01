@@ -6,7 +6,7 @@ Meu nome é Adriane
 - Gosto de estudar programação.
 
 ### Contato:
-- Email: dumaadriane@gmail.com
+- E-mail: dumaadriane@gmail.com
   
 ![](https://media.tenor.com/A0yCLZcqaGEAAAAM/cap-tornado.gif)
 
